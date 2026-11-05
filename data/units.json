@@ -1,0 +1,992 @@
+{
+ "units": [
+  {
+   "id": "T7-07",
+   "floor": 7,
+   "area": 62.99,
+   "terrace": 0,
+   "rooms": 1,
+   "height": 3.15,
+   "layout": "small",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon",
+     26.54
+    ],
+    [
+     "aneks kuchenny",
+     9.61
+    ],
+    [
+     "hol",
+     9.86
+    ],
+    [
+     "przedsionek",
+     5.4
+    ],
+    [
+     "salon kąpielowy",
+     7.59
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-08",
+   "floor": 8,
+   "area": 69.02,
+   "terrace": 0,
+   "rooms": 1,
+   "height": 3.15,
+   "layout": "small",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon",
+     26.3
+    ],
+    [
+     "aneks kuchenny",
+     11.03
+    ],
+    [
+     "hol",
+     9.78
+    ],
+    [
+     "przedsionek",
+     9.41
+    ],
+    [
+     "salon kąpielowy",
+     8.51
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-09",
+   "floor": 9,
+   "area": 84.71,
+   "terrace": 0,
+   "rooms": 2,
+   "height": 3.15,
+   "layout": "small",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon",
+     26.03
+    ],
+    [
+     "aneks kuchenny",
+     10.69
+    ],
+    [
+     "hol",
+     13.43
+    ],
+    [
+     "przedsionek",
+     5.48
+    ],
+    [
+     "sypialnia",
+     17.65
+    ],
+    [
+     "salon kąpielowy",
+     7.44
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-10",
+   "floor": 10,
+   "area": 101.66,
+   "terrace": 0,
+   "rooms": 2,
+   "height": 3.15,
+   "layout": "small",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     23.03
+    ],
+    [
+     "przedsionek",
+     6.08
+    ],
+    [
+     "salon kąpielowy",
+     7.99
+    ],
+    [
+     "hol",
+     14.25
+    ],
+    [
+     "aneks kuchenny",
+     10.5
+    ],
+    [
+     "salon",
+     35.82
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-11",
+   "floor": 11,
+   "area": 112.93,
+   "terrace": 0,
+   "rooms": 2,
+   "height": 3.15,
+   "layout": "whole",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "hol",
+     14.25
+    ],
+    [
+     "salon",
+     35.39
+    ],
+    [
+     "aneks kuchenny",
+     12.56
+    ],
+    [
+     "łazienka",
+     6.19
+    ],
+    [
+     "przedsionek",
+     2.52
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-12",
+   "floor": 12,
+   "area": 112.93,
+   "terrace": 0,
+   "rooms": 2,
+   "height": 3.15,
+   "layout": "whole",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "hol",
+     14.25
+    ],
+    [
+     "salon",
+     35.39
+    ],
+    [
+     "aneks kuchenny",
+     12.56
+    ],
+    [
+     "łazienka",
+     6.19
+    ],
+    [
+     "przedsionek",
+     2.52
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-13",
+   "floor": 13,
+   "area": 124.32,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 3.15,
+   "layout": "whole",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon kąpielowy",
+     10.23
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "przedsionek",
+     2.52
+    ],
+    [
+     "łazienka",
+     6.19
+    ],
+    [
+     "aneks kuchenny",
+     9.08
+    ],
+    [
+     "salon",
+     33.16
+    ],
+    [
+     "sypialnia",
+     10.94
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-14",
+   "floor": 14,
+   "area": 141.39,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 3.15,
+   "layout": "whole",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "sypialnia",
+     10.94
+    ],
+    [
+     "salon",
+     49.95
+    ],
+    [
+     "aneks kuchenny",
+     9.36
+    ],
+    [
+     "łazienka",
+     6.2
+    ],
+    [
+     "przedsionek",
+     2.52
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-15",
+   "floor": 15,
+   "area": 155.13,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 3.35,
+   "layout": "whole",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     10.94
+    ],
+    [
+     "salon",
+     63.68
+    ],
+    [
+     "aneks kuchenny",
+     9.37
+    ],
+    [
+     "łazienka",
+     6.2
+    ],
+    [
+     "przedsionek",
+     2.52
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-16",
+   "floor": 16,
+   "area": 155.13,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 3.35,
+   "layout": "whole",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     10.94
+    ],
+    [
+     "salon",
+     63.68
+    ],
+    [
+     "aneks kuchenny",
+     9.37
+    ],
+    [
+     "łazienka",
+     6.2
+    ],
+    [
+     "przedsionek",
+     2.52
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-17",
+   "floor": 17,
+   "area": 155.13,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 3.35,
+   "layout": "whole",
+   "tier": "residence",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     10.94
+    ],
+    [
+     "salon",
+     63.68
+    ],
+    [
+     "aneks kuchenny",
+     9.37
+    ],
+    [
+     "łazienka",
+     6.2
+    ],
+    [
+     "przedsionek",
+     2.52
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-18",
+   "floor": 18,
+   "area": 287.69,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 6.7,
+   "layout": "duplex",
+   "tier": "signature",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     10.94
+    ],
+    [
+     "salon",
+     64.08
+    ],
+    [
+     "aneks kuchenny",
+     9.09
+    ],
+    [
+     "łazienka",
+     6.2
+    ],
+    [
+     "przedsionek",
+     2.52
+    ],
+    [
+     "antresola",
+     132.44
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-19",
+   "floor": 19,
+   "area": 287.7,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 6.7,
+   "layout": "duplex",
+   "tier": "signature",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     27.81
+    ],
+    [
+     "salon kąpielowy",
+     10.22
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     10.94
+    ],
+    [
+     "salon",
+     63.8
+    ],
+    [
+     "aneks kuchenny",
+     9.37
+    ],
+    [
+     "łazienka",
+     6.21
+    ],
+    [
+     "przedsionek",
+     2.52
+    ],
+    [
+     "antresola",
+     132.44
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-20",
+   "floor": 20,
+   "area": 289.72,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 6.7,
+   "layout": "duplex",
+   "tier": "signature",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     28.52
+    ],
+    [
+     "salon kąpielowy",
+     10.21
+    ],
+    [
+     "hol",
+     20.32
+    ],
+    [
+     "sypialnia",
+     10.94
+    ],
+    [
+     "salon",
+     64.28
+    ],
+    [
+     "aneks kuchenny",
+     9.37
+    ],
+    [
+     "łazienka",
+     6.47
+    ],
+    [
+     "przedsionek",
+     2.52
+    ],
+    [
+     "antresola",
+     133.1
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-21",
+   "floor": 21,
+   "area": 292.7,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 6.7,
+   "layout": "duplex",
+   "tier": "signature",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     28.48
+    ],
+    [
+     "salon kąpielowy",
+     10.82
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     11.58
+    ],
+    [
+     "salon",
+     64.08
+    ],
+    [
+     "aneks kuchenny",
+     9.09
+    ],
+    [
+     "łazienka",
+     6.77
+    ],
+    [
+     "przedsionek",
+     2.52
+    ],
+    [
+     "antresola",
+     134.97
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-22",
+   "floor": 22,
+   "area": 294.74,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 6.7,
+   "layout": "duplex",
+   "tier": "signature",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     29.15
+    ],
+    [
+     "salon kąpielowy",
+     10.74
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     11.58
+    ],
+    [
+     "salon",
+     63.8
+    ],
+    [
+     "aneks kuchenny",
+     9.37
+    ],
+    [
+     "łazienka",
+     7.02
+    ],
+    [
+     "przedsionek",
+     2.52
+    ],
+    [
+     "antresola",
+     136.17
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-23",
+   "floor": 23,
+   "area": 298.39,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 6.7,
+   "layout": "duplex",
+   "tier": "signature",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     29.15
+    ],
+    [
+     "salon kąpielowy",
+     11.29
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     12.23
+    ],
+    [
+     "salon",
+     64.37
+    ],
+    [
+     "aneks kuchenny",
+     9.36
+    ],
+    [
+     "łazienka",
+     6.74
+    ],
+    [
+     "przedsionek",
+     3.08
+    ],
+    [
+     "antresola",
+     137.78
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  },
+  {
+   "id": "T7-24",
+   "floor": 24,
+   "area": 298.39,
+   "terrace": 0,
+   "rooms": 3,
+   "height": 6.25,
+   "layout": "duplex",
+   "tier": "signature",
+   "views": [
+    "N",
+    "E",
+    "S",
+    "W"
+   ],
+   "roomSchedule": [
+    [
+     "przedsionek",
+     3.99
+    ],
+    [
+     "sypialnia",
+     29.15
+    ],
+    [
+     "salon kąpielowy",
+     11.29
+    ],
+    [
+     "hol",
+     20.4
+    ],
+    [
+     "sypialnia",
+     12.23
+    ],
+    [
+     "salon",
+     64.37
+    ],
+    [
+     "aneks kuchenny",
+     9.36
+    ],
+    [
+     "łazienka",
+     6.74
+    ],
+    [
+     "przedsionek",
+     3.08
+    ],
+    [
+     "antresola",
+     137.78
+    ]
+   ],
+   "status": "available",
+   "priceOnRequest": true
+  }
+ ]
+}

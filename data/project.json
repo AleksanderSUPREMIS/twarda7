@@ -1,0 +1,32 @@
+{
+ "name": "TWARDA 7",
+ "address": "ul. Twarda 7, Warszawa",
+ "developer": "Grupa Antczak (from brief)",
+ "architect": "JSK Architekci, Pszczulny & Rutz (concept PDF)",
+ "plots": {
+  "total": 413.22,
+  "n23": 375.06,
+  "n24_2": 38.16
+ },
+ "builtArea": 340.88,
+ "totalFloorArea": 6350.42,
+ "usable": {
+  "residential": 3324.67,
+  "office": 352.87,
+  "retail": 94.1,
+  "terraces": 216.11,
+  "belowGround": 539.46
+ },
+ "floorsAbove": 24,
+ "floorsBelow": 3,
+ "height": {
+  "tower": 105,
+  "podium": 13.5
+ },
+ "parking": 22,
+ "permit": "Presentation: property with building permit decision; date not in files",
+ "conflicts": [
+  "Residential area: Excel 3324.67 vs presentation 3211.74 (Excel used)",
+  "Concept PDF 2019 shows 29 floors and 30 parking spaces; superseded by presentation (24 floors, 22 spaces)"
+ ]
+}
